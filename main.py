@@ -1,0 +1,1 @@
+print('django crud project')
